@@ -1,0 +1,9 @@
+image,confidence,detections,processing_ms
+group_photo,0.1,8,6710.5
+group_photo,0.25,7,104.17
+group_photo,0.5,4,101.8
+group_photo,0.75,1,97.96
+object_photo,0.1,2,176.48
+object_photo,0.25,2,156.54
+object_photo,0.5,1,154.37
+object_photo,0.75,0,145.85
